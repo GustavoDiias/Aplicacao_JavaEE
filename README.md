@@ -13,6 +13,6 @@ Trabalho individual.
 1 Entrega (20/05): Crie as camadas de DAL e BLL do projeto final (descrito na atividade final).
 Realize os mapeamentos das entidades que já foram repassadas em sala de aula 
 (1 para N e N para N sem atributo que não seja chave na tabela intermediária), 
-para evitar problemas futuros, realize o teste do mapeamento.
+para evitar problemas futuros, realize o teste do mapeamento.(CERTO)
 
 2 Entrega Final (20/06):DAL,BLL,View
